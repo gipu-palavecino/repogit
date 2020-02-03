@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+#Dont track 
+
+/crednetials.py
+
+#ignore Folder
+
+holachau/
